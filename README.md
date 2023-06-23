@@ -15,10 +15,10 @@ For Centralized learning, the data should be placed in a folder named "train" in
 And finally the test data should be in a folder named "test" (./data/test).
 
 ## Run:
-To run the simulation, simply execute the run.py file with the **dataset** and **mode** arguments.
-For example, to run the simulation for the CIFAR10 dataset using the GreenSwarm framework, type in:
+To run the simulation, simply execute the run.py file with the **mode** argument.
+For example, to run the simulation for the Swarm Learning framework, type in:
 
 ```
-python3 run.py --dataset cifar10 --mode gs
+python run.py --mode swarm
 
 ```
