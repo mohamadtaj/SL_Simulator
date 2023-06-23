@@ -1,4 +1,5 @@
 # SL_Simulator
+This repository contains a program for simulating a swarm learning framework. It also contains options for running the simulation for local training at each node and also centralized training where the training is perform on all the data.
 
 ### Modes:
 | Mode  | Option |
